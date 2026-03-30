@@ -1,0 +1,53 @@
+2026-03-29 19:12:10,394 INFO Starting scrape
+2026-03-29 19:12:10,394 INFO 
+===== RUNNING scrape_umass_alerts =====
+2026-03-29 19:12:12,070 INFO [OK] scrape_umass_alerts: 1 rows
+2026-03-29 19:12:12,071 INFO 
+===== RUNNING scrape_umass_reports =====
+2026-03-29 19:12:13,392 INFO [OK] scrape_umass_reports: 0 rows
+2026-03-29 19:12:13,393 INFO 
+===== RUNNING scrape_umass_crime_logs =====
+2026-03-29 19:14:00,967 INFO [OK] scrape_umass_crime_logs: 0 rows
+2026-03-29 19:14:00,968 INFO 
+===== RUNNING scrape_berkeley_reports =====
+2026-03-29 19:14:15,642 INFO [OK] scrape_berkeley_reports: 2 rows
+2026-03-29 19:14:15,642 INFO 
+===== RUNNING scrape_washington_alerts =====
+2026-03-29 19:14:29,601 INFO [OK] scrape_washington_alerts: 10 rows
+2026-03-29 19:14:29,602 INFO 
+===== RUNNING scrape_washington_feed =====
+2026-03-29 19:14:35,316 INFO [OK] scrape_washington_feed: 4 rows
+2026-03-29 19:14:35,316 INFO 
+===== RUNNING scrape_osu_alerts_enhanced =====
+2026-03-29 19:15:05,774 INFO [OK] scrape_osu_alerts_enhanced: 16 rows
+2026-03-29 19:15:05,775 INFO 
+===== RUNNING scrape_uf_alerts_extended =====
+2026-03-29 19:15:16,068 INFO [OK] scrape_uf_alerts_extended: 43 rows
+2026-03-29 19:15:16,068 INFO 
+===== RUNNING scrape_uf_summaries =====
+2026-03-29 19:15:44,211 INFO [OK] scrape_uf_summaries: 7 rows
+2026-03-29 19:15:44,212 INFO 
+===== RUNNING scrape_penn_state_alerts =====
+2026-03-29 19:18:27,518 INFO [OK] scrape_penn_state_alerts: 78 rows
+2026-03-29 19:18:27,519 INFO 
+===== RUNNING scrape_ut_austin_alerts =====
+2026-03-29 19:22:04,852 INFO [OK] scrape_ut_austin_alerts: 169 rows
+2026-03-29 19:22:04,852 INFO 
+===== RUNNING scrape_ut_austin_reports =====
+2026-03-29 19:22:11,254 INFO [OK] scrape_ut_austin_reports: 1 rows
+2026-03-29 19:22:11,254 INFO 
+===== RUNNING scrape_unc_alerts =====
+2026-03-29 19:22:28,494 INFO [OK] scrape_unc_alerts: 11 rows
+2026-03-29 19:22:28,495 INFO 
+===== RUNNING scrape_unc_feed =====
+2026-03-29 19:22:42,987 INFO [OK] scrape_unc_feed: 10 rows
+2026-03-29 19:22:42,988 INFO 
+===== RUNNING scrape_uw_madison_alerts =====
+2026-03-29 19:27:38,257 INFO [OK] scrape_uw_madison_alerts: 215 rows
+2026-03-29 19:27:38,258 INFO 
+===== RUNNING scrape_asu_reports_and_logs =====
+2026-03-29 19:27:55,251 INFO [OK] scrape_asu_reports_and_logs: 4 rows
+2026-03-29 19:27:55,252 INFO 
+===== RUNNING scrape_asu_clery_notices =====
+2026-03-29 19:28:09,853 INFO [OK] scrape_asu_clery_notices: 10 rows
+2026-03-29 19:28:09,893 INFO Finished. 519 records written to university_incident_reports.csv
