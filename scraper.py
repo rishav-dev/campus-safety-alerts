@@ -1,5 +1,5 @@
 """
-scrapper.py
+scraper.py
 ----------------
 
 This script collects campus crime alerts and timely warning notices from ten major universities.  Each
@@ -24,7 +24,7 @@ Usage
 Run the script directly to write a CSV file named ``university_incident_reports.csv`` in the
 current directory:
 
-    python scrapper.py
+    python scraper.py
 
 The resulting file contains one row per distinct document scraped with fields documenting the
 university, the source type (html or pdf), the family of record, the URLs, the extracted date and
